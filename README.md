@@ -3,7 +3,6 @@ Comparative Analysis of Random Forest, SVR, and Linear Regression for Load Forec
 
 This project presents a comparative analysis of three machine learning models — **Random Forest**, **Support Vector Regression (SVR)**, and **Linear Regression** — for short-term electricity load forecasting in a solar-powered microgrid. The work is implemented in MATLAB and is based on real-world weather and load data.
 
-> 📝 *This IEEE-style paper was written as part of my undergraduate research.*
 
 ---
 
